@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Ernesto Urias",
+    "peso": 93,
+    "altura": 1.74,
+    "gordura": 25,
+    "imc": 30.7
+  },
+  {
+    "nombre": "Ana López",
+    "peso": 60,
+    "altura": 1.62,
+    "gordura": 22,
+    "imc": 22.9
+  },
+  {
+    "nombre": "Carlos Pérez",
+    "peso": 80,
+    "altura": 1.70,
+    "gordura": 28,
+    "imc": 27.7
+  }
+]
